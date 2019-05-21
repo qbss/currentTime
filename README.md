@@ -1,2 +1,2 @@
 # currentTime
-.Net C# console current time
+.Net C# Console.WriteLine current time and date
